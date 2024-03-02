@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\Jwebapps.exe
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\Jwebapps.dll
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\Jwebapps.deps.json
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\Jwebapps.runtimeconfig.json
+C:\Users\admin\source\repos\Jwebapps\bin\Debug\net6.0\publish\Jwebapps.pdb

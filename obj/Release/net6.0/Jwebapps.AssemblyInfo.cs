@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jwebapps")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61e921b80a20193925059d6e8f18b7215e716249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45c4195785650f03f09150a827a2bec03104d89c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jwebapps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jwebapps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
