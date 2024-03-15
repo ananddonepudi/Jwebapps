@@ -4,9 +4,4 @@ files:
   - source: C:\Projects\webapps\publish
     destination: C:\backup\
 hooks:
-   BeforeInstall:
-     - location: stop.bat       
-       runas: administrator
-   ApplicationStart:
-     - location: start.bat       
-       runas: administrator
+ 
