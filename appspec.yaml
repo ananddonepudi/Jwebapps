@@ -3,8 +3,4 @@ os: windows
 files:
   - source: C:\Projects\webapps\publish
     destination: C:\backup\
-hooks:
-  BeforeInstall:
-  AfterInstall:
-  ApplicationStart:
-  ValidateService:
+
