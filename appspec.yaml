@@ -3,5 +3,5 @@ os: windows
 files:
   - source: C:\Projects\webapps\publish
     destination: C:\backup\
-hooks:
- 
+    file_exists_behavior: OVERWRITE
+
