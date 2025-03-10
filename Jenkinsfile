@@ -73,7 +73,6 @@ pipeline {
               steps{
                   bat 'xcopy  /s /i  "C:\\Users\\admin\\source\\repos\\Jwebapps\\bin\\Release\\net6.0\\publish" "C:\\Anand\\production" /Y'
                    }
-               }
-        
+               }        
     }
 }
